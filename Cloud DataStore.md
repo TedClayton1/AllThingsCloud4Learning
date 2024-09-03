@@ -1,0 +1,2 @@
+
+Datastore is ideal for **applications that rely on highly available structured data at scale**. You can use Datastore to store and query all of the following types of data: Product catalogs that provide real-time inventory and product details for a retailer.

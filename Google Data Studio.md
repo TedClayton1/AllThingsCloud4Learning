@@ -1,0 +1,2 @@
+
+Google Data Studio is **a web-based data visualization tool that helps users build customized dashboards and easy-to-understand reports**. It helps in tracking key KPI's for customers, visualizing trends, and comparing performances over time. Feb 20, 2023

@@ -1,0 +1,2 @@
+
+In Google Cloud's Datastore, a root entity is ==an entity that doesn't have a parent==. Root entities and all of their descendants are part of the same entity group. The ancestor path of a root entity is empty, and its key is made up of only its identifier and kind.

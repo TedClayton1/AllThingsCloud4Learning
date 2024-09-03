@@ -1,0 +1,1 @@
+1.  The development has submitted a ticket for a web application that is crashing due to high CPU utilization. The network admin has suggested creating a Managed Instance group to handle the load. Which suggested configuration below could solve the problem

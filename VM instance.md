@@ -1,0 +1,1 @@
+An instance is **a virtual machine (VM) hosted on Google's infrastructure**. You can create an instance or create a group of managed instances (MIG) by using the Google Cloud console, the Google Cloud CLI, or the Compute Engine API.

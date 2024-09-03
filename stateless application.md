@@ -1,0 +1,2 @@
+
+A stateless application is ==a type of internet protocol that doesn't store data from previous transactions on its server==. Instead, it treats each request as new, without knowledge of previous interactions. This is similar to a Coke machine, which receives a single request and provides a single response.

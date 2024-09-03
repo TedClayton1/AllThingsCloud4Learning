@@ -1,0 +1,1 @@
+We have to use a message broker for asynchronous communication between multiple microservices

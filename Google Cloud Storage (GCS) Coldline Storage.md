@@ -1,0 +1,2 @@
+
+s ==a public cloud storage service for data that's not accessed frequently, such as data that's only accessed once a quarter==. It's a low-cost, durable option that's a good choice when lower availability, higher data access costs, and a 90-day minimum storage duration are acceptable trade-offs for lower at-rest storage

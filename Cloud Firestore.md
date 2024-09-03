@@ -1,0 +1,1 @@
+Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps

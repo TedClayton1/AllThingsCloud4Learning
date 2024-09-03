@@ -1,0 +1,3 @@
+
+
+Truncated exponential backoff is ==a network application error-handling strategy that involves clients periodically retrying failed requests with increasing delays between each attempt==. This strategy balances the need to retry operations with the need to reduce load on the network or service. For example, if a request fails, the delay before the next attempt might double each time. This reduces the likelihood of many clients retrying at the same time, which can overwhelm the server.

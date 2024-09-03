@@ -1,0 +1,2 @@
+
+Truncated exponential backoff with jitter is a retry logic that ==periodically retries a failed request with exponentially increasing delays between attempts, plus a small random delay between each retry==. The random delay, also known as jitter, helps prevent multiple clients from retrying at the same time, which can create additional load.

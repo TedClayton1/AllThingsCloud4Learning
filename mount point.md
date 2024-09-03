@@ -1,0 +1,1 @@
+A mount point is ==a directory or file that allows access to a new file system, directory, or file==. It's usually an empty directory in the currently accessible file system and acts as the entry point for a file system or device. Mount points are fundamental to Unix, Linux, and macOS, but Windows can also use them, though it's not common.

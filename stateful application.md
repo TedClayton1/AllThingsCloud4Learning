@@ -1,0 +1,2 @@
+
+In stateful applications, **the server keeps track of the state of each user session, and maintains information about the user's interactions and past requests**. They can be returned to again and again, like online banking or email

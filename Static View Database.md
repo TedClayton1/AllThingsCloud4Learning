@@ -1,0 +1,2 @@
+
+A static view in a database ==can contain data from multiple tables, but the required columns from each table must be specified in the SELECT and WHERE clauses==. Static views need to be updated manually when related or extended objects are created or changed

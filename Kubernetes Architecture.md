@@ -1,0 +1,4 @@
+
+In the following diagram, we can see the basic architecture of a Kubernetes cluster. The cluster consists of multiple nodes. From a high level, the master nodes are responsible for the management of the cluster, while the worker nodes host the workloads. The worker nodes host so-called Pods, which are the most atomic units of Kubernetes. These Pods can contain one or more containers. Access to the containers in the Pods is provided using services. In the following diagram, we can see a Kubernetes cluster and the services that are hosted on each type of node:
+
+![[Pasted image 20240709155955.png]]

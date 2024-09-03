@@ -1,0 +1,2 @@
+
+In cloud technology, stateful data is information that an application or system maintains about a user session, transaction, or other interaction. This information is stored in a database or memory, and allows the application to remember and track specific details about each user or session. This information is considered the "status" of the system.

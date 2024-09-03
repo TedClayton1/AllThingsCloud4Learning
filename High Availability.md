@@ -1,0 +1,2 @@
+
+High availability is **a quality of computing infrastructure that allows it to continue functioning, even when some of its components fail**. This is important for mission-critical systems that cannot tolerate interruption in service, and any downtime can cause damage or result in financial loss.

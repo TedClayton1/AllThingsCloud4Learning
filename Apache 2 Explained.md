@@ -1,0 +1,1 @@
+Apache HTTP Server, also known as Apache 2.0, is a free, open-source web server software that's used to display, process, deliver, and store website content. It's developed and maintained by the Apache Software Foundation and is one of the most widely used web servers on the market.

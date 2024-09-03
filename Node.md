@@ -1,0 +1,2 @@
+
+A node is **a virtual or physical machine that you run your workloads [[Workload in Cloud Computing]] on**. In Kubernetes, we operate on clusters, which are groups of one or more worker nodes. But in order to get the automation that Kubernetes provides, nodes are more than just any old virtual or physical machine.

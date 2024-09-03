@@ -1,0 +1,2 @@
+
+**When you view Container or Sensor details in the UI**, you'll see Kubernetes Metadata. Kubernetes Metadata includes the following: - Kubernetes Attributes: This includes attributes like cluster type and version, pod name, pod namespace, pod UUID, etc. Learn more about Kubernetes Cluster Attributes.

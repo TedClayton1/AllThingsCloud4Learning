@@ -1,0 +1,1 @@
+A cloud content delivery network (CDN) ==uses a network of servers located around the world to deliver web content to users from locations that are closer to them==. This process, called caching, reduces the time it takes for content like images, videos, and web pages to load on a user's device

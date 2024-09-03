@@ -1,0 +1,16 @@
+
+What is a GKE cluster?
+
+![GKE cluster architecture | Google Kubernetes Engine (GKE ...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGFHHYiK_xUahDcM6Bo75x21f5KVw4XC7MxZYCYRf_nQ&s)
+
+A GKE cluster **consists of a control plane and worker machines called nodes**. The control plane and nodes make up the Kubernetes cluster orchestration system. GKE Autopilot manages the entire underlying infrastructure of clusters, including the control plane, nodes, and all system components.
+
+
+**Benefits of GKE**
+
+- Early access to Kubernetes updates and releases. ...
+- Improved productivity and agility. ...
+- Hybrid cloud cluster management. ...
+- Streamlined operations with release channels. ...
+- Low ownership and maintenance costs. ...
+- Easy to deploy and use.

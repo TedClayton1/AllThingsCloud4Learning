@@ -1,0 +1,1 @@
+A cluster that uses custom static routes in a VPC network .

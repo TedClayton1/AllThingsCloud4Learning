@@ -1,0 +1,2 @@
+
+**A node taint lets you mark a node so that the scheduler avoids or prevents using it for certain Pods**. A complementary feature, tolerations, lets you designate Pods that can be used on "tainted" nodes. Taints and tolerations work together to ensure that Pods are not scheduled onto inappropriate nodes.

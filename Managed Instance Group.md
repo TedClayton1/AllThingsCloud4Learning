@@ -1,0 +1,2 @@
+
+A managed instance group (MIG) is **a group of virtual machine (VM) instances that you treat as a single entity**. Each VM in a MIG is based on an instance template. If you only need to create multiple VMs, but don't want them grouped together in a MIG, see the bulk instance API.

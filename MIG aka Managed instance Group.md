@@ -1,0 +1,3 @@
+Managed instance groups (MIGs)
+    
+    These groups allow you to run applications on multiple identical VMs. MIGs can help with reliability, scaling, health, and change management. They can also help applications handle increased traffic and reduce costs when resources are not needed as much. MIGs can include automated services like auto-scaling, auto-healing, regional deployment, and automatic updating. For example, regional MIGs can spread app load across multiple zones to protect against zonal failures. MIGs can also be used to automate the operation of applications with [[stateful data]] or configuration, such as databases, DNS servers, and long-running batch computations.

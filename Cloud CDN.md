@@ -1,0 +1,1 @@
+Cloud CDN (**Content Delivery Network**) uses Google's global edge network to serve content closer to users, which accelerates your websites and applications. Cloud CDN works with the global external Application Load Balancer or the classic Application Load Balancer to deliver content to your users.

@@ -1,0 +1,2 @@
+
+Firewall Insights **helps you understand the usage patterns of your firewall rules**. You can use these insights to support decisions about removing or modifying firewall rules to simplify and secure your firewall configuration.

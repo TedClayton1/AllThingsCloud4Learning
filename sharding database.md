@@ -1,0 +1,2 @@
+
+Database sharding **splits a single dataset into partitions or shards**. Each shard contains unique rows of information that you can store separately across multiple computers, called nodes. All shards run on separate nodes but share the original database's schema or design.

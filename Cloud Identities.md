@@ -1,0 +1,3 @@
+
+
+Cloud identities are ==a set of tools, policies, and processes that help protect a company's resources across cloud platforms and services==. They can also be referred to as cloud identity management (IAM) systems. Cloud identities allow companies to control who can access what and when, and to assign permissions to groups of users. They can also help companies identify suspicious login attempts and ensure that user permissions are up to date, even if an employee's role or location changes.

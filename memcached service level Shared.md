@@ -1,0 +1,2 @@
+
+- **Shared memcache** is the free default for App Engine applications. It provides cache capacity on a best-effort basis and is subject to the overall demand of all the App Engine applications using the shared memcache service.

@@ -1,0 +1,3 @@
+
+
+A virtual machine (VM) service account is ==a special type of account that allows applications or compute workloads to run processes, such as virtual machine instances, without human involvement==. Service accounts can be privileged local or domain accounts, and can sometimes have domain administrative privileges. They can be stored in a variety of places, including databases, applications, SharePoint, Internet Information Services (IIS), and COM objects.

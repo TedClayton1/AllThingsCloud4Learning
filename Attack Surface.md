@@ -1,0 +1,2 @@
+
+An attack surface is ==the sum of all the entry points in an organization or system that could be used by an unauthorized person to gain access and cause damage==. This includes both tangible and digital elements, such as hardware, software, websites, and networks. Once inside, an attacker could manipulate or download data, or disrupt the system's functioning

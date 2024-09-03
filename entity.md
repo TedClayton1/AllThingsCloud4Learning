@@ -1,0 +1,4 @@
+
+n cloud computing, an entity is ==a data object that can have one or more named properties, each with one or more values==. Entities are similar to rows in a relational database, and each entity is represented by a key. Entities of the same type don't need to have the same properties, and the values for a given property don't need to be the same data type. However, an application can enforce these restrictions in its data model if needed. 
+
+Entities are categorized by a particular kind for the purpose of queries. For example, in a human resources application, each employee could be represented by an entity of the kind "Employee".

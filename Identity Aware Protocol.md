@@ -1,0 +1,1 @@
+Identity-Aware Proxy (IAP) is ==a Google Cloud Platform (GCP) service that controls and secures access to applications and services==. It uses a context-aware access model that considers factors like user identity, device status, and location to determine access. IAP can be used to protect access to applications hosted on Google Cloud, other clouds, and on-premises

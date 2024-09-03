@@ -1,0 +1,1 @@
+In the case of synchronous, we can use the HTTP protocol to make an HTTP request from one microservice to the microservice

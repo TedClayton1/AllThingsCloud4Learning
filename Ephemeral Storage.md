@@ -1,0 +1,2 @@
+
+ in the context of Kubernetes, is **storage tied to the lifecycle of a pod, so when a pod finishes or is restarted, that storage is cleared out**. So, in short, what is ephemeral storage? It's just temporary storage for a container that gets wiped out and lost when the container is stopped or restarted.

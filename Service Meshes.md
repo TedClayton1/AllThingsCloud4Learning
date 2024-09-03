@@ -1,0 +1,2 @@
+
+Service mesh in Kubernetes **enables services to detect each other and communicate**. It also uses intelligent routing to control API calls and the flow of traffic between endpoints and services. This further enables canaries or rolling upgrades, blue/green, and other advanced deployment strategies.

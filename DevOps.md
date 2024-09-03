@@ -1,0 +1,2 @@
+
+DevOps and cloud computing are both software engineering practices that can be beneficial when used together. DevOps is a methodology that combines development and IT operations to deliver products and services quickly and efficiently in the cloud. 

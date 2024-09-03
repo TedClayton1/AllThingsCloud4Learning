@@ -1,0 +1,4 @@
+
+In software engineering, a monolithic application is ==a single, unified software application that is self-contained and independent from other applications==. It's built as a single logical executable that includes all of the application's components, such as APIs, services, databases, and load balancers. The client and server run on the same machine and communicate via function calls.
+
+Monolithic applications are single-tiered, which means **multiple components are combined into one large application**. Consequently, they tend to have large codebases, which can be cumbersome to manage over time

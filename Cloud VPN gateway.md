@@ -1,0 +1,2 @@
+
+A cloud VPN gateway is ==a network device that securely connects a virtual private network (VPN) to a cloud network==. It acts as a bridge between private and public networks, allowing authorized users to securely communicate with systems and access internal company resources from an external network.

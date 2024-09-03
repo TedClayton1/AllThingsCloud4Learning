@@ -1,0 +1,4 @@
+
+Cloud-native applications are software programs that consist of multiple small, interdependent services called microservices. Traditionally, developers built monolithic applications with a single block structure containing all the required functionalities. By using the cloud-native approach, software developers break the functionalities into smaller microservices. This makes cloud-native applications more agile as these microservices work independently and take minimal computing resources to run.
+
+Defining cloud nativeThe term cloud native refers to **the concept of building and running applications to take advantage of the distributed computing offered by the cloud delivery model**. Cloud native apps are designed and built to exploit the scale, elasticity, resiliency, and flexibility the cloud provides.

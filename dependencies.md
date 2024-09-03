@@ -1,0 +1,1 @@
+The various resources your application requires to function correctly. Dependencies are **the connections and interactions that services have with each other or with external resources, such as databases, APIs, or libraries**.

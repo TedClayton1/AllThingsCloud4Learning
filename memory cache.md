@@ -1,0 +1,6 @@
+
+## When to use a memory cache
+
+One use of a memory cache is to speed up common datastore queries. If many requests make the same query with the same parameters, and changes to the results do not need to appear on the web site right away, the application can cache the results in the memcache. Subsequent requests can check the memcache, and only perform the datastore query if the results are absent or expired. Session data, user preferences, and other data returned by queries for web pages are good candidates for caching.
+
+Memcache can be useful for other temporary values. However, when considering whether to store a value solely in the memcache and not backed by other persistent storage, be sure that your application behaves acceptably when the value is suddenly not available. Values can expire from the memcache at any time, and can be expired prior to the expiration deadline set for the value. For example, if the sudden absence of a user's session data would cause the session to malfunction, that data should probably be stored in the datastore in addition to the memcache.

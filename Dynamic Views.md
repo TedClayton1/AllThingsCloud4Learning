@@ -1,0 +1,2 @@
+
+Dynamic views are ==virtual tables that are created from query result sets in real time==. They are stored in random access memory (RAM) and don't take up space in a database, but they do use computational resources. Dynamic views can be useful when working with large or fast-changing data sets, as they allow users to perform data aggregations on the database to avoid latency in data transfers.

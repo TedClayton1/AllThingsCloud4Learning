@@ -1,0 +1,2 @@
+
+Cloud VPN securely connects your on-premise network to your GCP VPC network through an IPSec VPN tunnel. Traffic traveling between the two networks is encrypted by one VPN gateway. Then decrypted by the other VPN gateway. This protects your data as it travels over the public internet. That's why Cloud VPN is useful for low volume data connections.

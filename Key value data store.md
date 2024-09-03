@@ -1,0 +1,1 @@
+is a type of NoSQL database in which _keys_ serve as unique identifiers for their associated _values_. Any given Redis instance includes a number of _databases_, each of which can hold many different keys of a variety of _data types_.

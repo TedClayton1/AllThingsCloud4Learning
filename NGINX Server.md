@@ -1,0 +1,1 @@
+Nginx (pronounced engine x) is open source Web server software that also performs [[reverse proxy]], [[Load Balancers in GCP]], [[email proxy]] ,and [[HTTP cache]] services. The software was originally created by Igor Sysoev as an answer to the challenge of handling 10,000 concurrent user connections: the C10k problem.
