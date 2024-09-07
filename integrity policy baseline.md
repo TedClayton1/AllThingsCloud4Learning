@@ -1,1 +1,1 @@
-Sets the baseline to the measurements captured from the most recent boot sequence. If it is not expected, you should stop that VM instance and investigate the reason for the failure.
+Sets the baseline to the measurements captured from the most recent boot sequence. 
