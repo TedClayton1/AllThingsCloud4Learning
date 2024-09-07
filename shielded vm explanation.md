@@ -1,6 +1,6 @@
 
 
-Shielded VMs are ==virtual machines (VMs) that have additional security controls to protect them from threats like rootkits and bootkits==. They are available on cloud platforms like Google Cloud Platform and Microsoft Azure.  
+Shielded VMs are ==virtual machines (VMs) that have additional security controls to protect them from threats like [[rootkits and bootkits]]==. They are available on cloud platforms like Google Cloud Platform and Microsoft Azure.  
 
 Here are some of the security features of Shielded VMs:  
 
@@ -13,4 +13,4 @@ Here are some of the security features of Shielded VMs:  
 - Logging: Malicious actions by insiders within an organization are logged.  
     
 
-Shielded VMs use a combination of hardware and software-based security features to protect VMs from the moment they start up until they are running.
+Shielded VMs use a combination of hardware and software-based security features to protect VMs from the moment they start up until they are running. If you applied a system update on a VM instance, you should update the [[integrity policy baseline]]. 
