@@ -7,7 +7,7 @@ CDN caches website/application data closer to user via Cloud CDN Locations-
 	* Currently over 100 locations worldwide.
 	* Hop off Point between Google's private network and the public Internet.
 
-
+Cloud CDNs help in distributing the content globally without replicating them in multiple cloud storage locations. Multi-region storage won't necessarily improve performance.
 
 Cloud CDN            Load Balancer                vm instance(3 to load bl)
 (connected to users)
