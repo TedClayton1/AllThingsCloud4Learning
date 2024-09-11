@@ -1,4 +1,4 @@
-Kubernetes is an open source solution for managing application containers. 
+Kubernetes is an open source solution for managing application containers. [[Google Kubernetes Explained in 100 seconds]] is also a great resource.
 
  ➤ With Kubernetes, you can decide when your containers should run, increase, or decrease the size of application containers or check the resource consumption of your application deployments. 
  
