@@ -1,0 +1,2 @@
+
+A way to periodically schedule or run a bit of code or process in your application so you can do some form of process in a manner that's pretty frequent let's say we want to clear users in the database who haven't used our application every year. You know users who are older than a year who haven't touched an application in a year. That's a way to do that or other sorts of things maybe for cleaning purposes/maintenance purposes. The cron job is a perfect way to run bits of code at specific intervals and really easy to do that using gcp.
