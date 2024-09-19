@@ -21,3 +21,24 @@ Here are some things to consider about Cloud Functions scaling: 
 - Instance limits
     
     The default maximum instances limit for 2nd gen HTTP functions is 100, but it can be increased to 1,000. There is no default maximum instances limit for 1st gen HTTP functions.
+
+Cloud Functions in Google Cloud Platform (GCP) can be used with relevant logs ==to monitor and debug function behavior, and to troubleshoot issues==: 
+
+- Monitor function invocations, errors, and performance
+    
+    Developers can use the GCP Console or Stackdriver Logging and Monitoring to monitor function invocations, errors, and performance metrics. 
+    
+- Debug and troubleshoot issues
+    
+    If a Cloud Function is not producing the desired output or encountering errors, developers can use the logs to look for error messages, stack traces, or other relevant information. 
+    
+- Create charts and alerts
+    
+    Developers can create charts and alerts based on logs-based metrics to monitor their functions. For example, a chart can visualize latency over time, or an alert can notify developers if a certain error occurs too often. 
+    
+- Add logging statements
+    
+    Developers can add additional logging statements to their function code to provide more detailed insights during testing. 
+    
+
+Cloud Functions are a serverless execution environment that allows developers to focus on the core functionality of an application without having to worry about managing servers or runtimes.
