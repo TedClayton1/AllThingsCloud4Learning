@@ -5,7 +5,7 @@ To use a bastion host in GCP, users first connect to the bastion host, then conn
 
 Here are some steps for creating a bastion host in GCP: 
 
-1. Enable the Identity Aware Proxy API under Security > Identity-Aware Proxy 
+1. Enable the [[Identity Aware Proxy]] API under Security > Identity-Aware Proxy 
     
 2. Configure the OAuth consent screen, specifying whether to permit internal or external users 
     
