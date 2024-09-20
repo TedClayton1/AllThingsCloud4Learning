@@ -1,4 +1,4 @@
-
+Exactly once processing
 Dataflow is a Google Cloud service that provides unified stream and batch data processing at scale. Use Dataflow to create data pipelines that read from one or more sources, transform the data, and write the data to a destination. Fully managed service for transforming and enriching data in stream(real time) and batch (historical) modes with equal reliability and expressiveness- no more complex workarounds or compromises needed.
 
 Typical use cases for Dataflow include the following:
