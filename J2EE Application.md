@@ -1,0 +1,2 @@
+
+Java 2 Platform, Enterprise Edition (J2EE) is ==a framework for developing multi-tiered enterprise applications using Java==. J2EE applications are made up of components, containers, and connectors, and are written using J2EE APIs.
