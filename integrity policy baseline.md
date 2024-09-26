@@ -1,1 +1,1 @@
-Sets the baseline to the measurements captured from the most recent boot sequence. 
+Sets the baseline to the measurements captured from the most recent boot sequence. An integrity policy baseline is ==a known good boot baseline that is used to compare measurements from subsequent VM boots to determine if anything has changed==. It is created by the Shielded VM vTPM when a Compute instance is launched.
