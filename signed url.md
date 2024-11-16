@@ -1,0 +1,2 @@
+
+Signed urls are temporary urls that will prevent users from sharing the static url to access the content. CDNs help in distributing the content globally without replicating them in multiple cloud storage locations.
