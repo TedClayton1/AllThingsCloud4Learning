@@ -1,0 +1,2 @@
+
+What is a stateless application? A stateless app is an application program that **does not save client data generated in one session for use in the next session with that client**. Each session is carried out as if it was the first time and responses are not dependent upon data from a previous session.
