@@ -1,0 +1,2 @@
+
+The cluster autoscaler **automatically resizes the number of nodes in a given node pool, based on the demands of your workloads**. You don't need to manually add or remove nodes or over-provision your node pools. Instead, you specify a minimum and maximum size for the node pool, and the rest is automatic.
