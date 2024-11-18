@@ -1,0 +1,2 @@
+
+The boto configuration file **contains values that control how gsutil behaves**. For example, the prefer_api variable determines which API gsutil preferentially uses. Boto configuration file variables can be changed by editing the configuration file directly.

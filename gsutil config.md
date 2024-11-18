@@ -1,0 +1,2 @@
+
+The gsutil config command obtains access credentials for Google Cloud Storage and writes a boto/gsutil configuration file containing the obtained credentials along with a number of other configuration-controllable values.
