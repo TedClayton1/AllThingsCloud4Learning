@@ -11,3 +11,5 @@ Net.core.wmem_max is ==a kernel parameter that specifies the maximum size of a 
     
 
 You can also tune other kernel parameters related to network buffers, such as net.core.rmem_max, which controls the maximum receive buffer size.
+
+Net.core.wmem_max allows an admin with root access to set the send buffer size for all types of connections.
