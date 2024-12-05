@@ -10,6 +10,7 @@ Good for:
 -Low latency read/write access
 -High-throughput analytics
 -Native time series support
+-Holding "Click Stream" data i.e 10,000 clicks per second and clickstream event messages
 Common workloads:
 -IoT finance,adtech
 -Personlization,recommendations
