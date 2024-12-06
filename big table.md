@@ -17,3 +17,19 @@ Common workloads:
 -Monitoring
 -Geospatial datasets
 -Graphs
+
+Cloud Bigtable is a fully managed, scalable NoSQL database service for large analytical and operational workloads and lets you store large amounts of single-keyed data with very low latency.
+
+Cloud Bigtable excels as a storage engine for batch MapReduce operations, stream processing/analytics, and machine-learning applications.
+
+https://cloud.google.com/bigtable/docs/overview
+
+As pointed out in this example use case by Google, Google Cloud Bigtable, a high-performance NoSQL database service, integrates with Google Cloud Dataproc to provide a convenient low-latency data store.
+
+https://cloud.google.com/customers/zulily
+
+Domain
+
+2.33
+
+Question 18Incorrect
