@@ -31,3 +31,11 @@ Direct peering is ==a voluntary connection between two networks that allows use
     
 
 Direct peering works by connecting a customer's managed router to a public Autonomous System Number (ASN). Enterprises can request a public ASN from the ARIN for US-based companies or the RIPE for EU-based
+
+*Guaranteed Network Availability and High Bandwidth  = low
+Private Network Connection = not required
+Custom Routing = not required
+Google Workspace Access = Required
+Budget to establish connection =none
+
+*Direct Peering is free. Custom routing not an option, and the connection is supported over the public internet rather than a private connection. Google Workspace applications are avail to users.
