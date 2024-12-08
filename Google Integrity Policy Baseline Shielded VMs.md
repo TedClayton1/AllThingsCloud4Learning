@@ -1,5 +1,5 @@
 
-The integrity policy baseline for a Shielded VM is ==a known good boot sequence that's used to compare subsequent boots of the VM to determine if anything has changed==. The baseline is created when a VM instance is first booted, and it's based on the boot image that's implicitly trusted. 
+The integrity policy baseline for a [[Shielded VM]] is ==a known good boot sequence that's used to compare subsequent boots of the VM to determine if anything has changed==. The baseline is created when a VM instance is first booted, and it's based on the boot image that's implicitly trusted. 
 
 Here's how the integrity policy baseline works for Shielded VMs:
 
