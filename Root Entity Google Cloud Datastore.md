@@ -16,6 +16,15 @@ Key points about root entities:
 - **Ancestor path:**
     
     When you create a new entity with a parent, the path of parent entities leading to the root entity is called its "ancestor path". 
+
+
+- **Unique identifier:**
+    
+    Each root entity has a unique identifier, which can be either a custom string name or a numeric ID, that distinguishes it from other root entities of the same kind. 
+    
+- **Accessing data:**
+    
+    To access a specific root entity, you need to use its "kind" (like a category) and its unique identifier in your query.
     
 
 Example:
@@ -26,3 +35,14 @@ Imagine you're storing data about a customer and their orders in Datastore:
 - **Child entities:**
     - "Order" - Each individual order placed by a customer would be a child entity with the "Customer" entity as its parent.
     - "Shipping Address" - Details like a customer's shipping address could be another child entity linked to the "Customer" entity.
+
+
+Imagine you're storing information about a company in Datastore.
+
+- **Kind:** "Company"
+- **Root Entity:** A company named "Google" with an identifier "google-corp" 
+
+How to think about it like a "dummy":
+
+- Think of a root entity as the main entrance to a building, and its identifier as the unique address of that entrance. 
+- If you need to find a specific office within the building (a child entity), you would first need to know the building's main entrance (the root entity) and then navigate through the floors and rooms to reach your target.
