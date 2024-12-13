@@ -1,7 +1,7 @@
 
 In Google Cloud's Datastore, a root entity is ==an entity that doesn't have a parent==. Root entities and all of their descendants are part of the same entity group. The ancestor path of a root entity is empty, and its key is made up of only its identifier and kind.
 
-A "root [[entity" in Google Cloud Datastore is ==essentially the top-level "parent" of a group of related data==, meaning it has no parent itself and acts as the starting point for a hierarchy of entities within a specific data set; like the main trunk of a tree, where all other entities branch off from it, allowing you to easily organize and query data that belongs together. 
+A "root [[entity]]" in Google Cloud Datastore is ==essentially the top-level "parent" of a group of related data==, meaning it has no parent itself and acts as the starting point for a hierarchy of entities within a specific data set; like the main trunk of a tree, where all other entities branch off from it, allowing you to easily organize and query data that belongs together. 
 
 Key points about root entities:
 
