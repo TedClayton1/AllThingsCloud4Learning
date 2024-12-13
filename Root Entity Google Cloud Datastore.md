@@ -46,3 +46,5 @@ How to think about it like a "dummy":
 
 - Think of a root entity as the main entrance to a building, and its identifier as the unique address of that entrance. 
 - If you need to find a specific office within the building (a child entity), you would first need to know the building's main entrance (the root entity) and then navigate through the floors and rooms to reach your target.
+Key points about [[key object]]
+
