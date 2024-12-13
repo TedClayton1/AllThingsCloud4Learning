@@ -46,3 +46,5 @@ Other OLAP tools include:  
 Toucan, Tableau, Adverity, Domo, Sisense, Grow, Reveal, and Microsoft Power BI.  
 
 OLAP tools allow users to analyze data from multiple dimensions, which is known as "slicing and dicing".
+
+Big Query works great with OLAP in that its a relational db that can operate on hundreds of terrabytes of data. Also, it's designed for large-scale processing of tabular data.
