@@ -1,4 +1,4 @@
-Key points about [[key object]]
+
 
 - **Unique identifier:**
     
@@ -15,4 +15,4 @@ Key points about [[key object]]
 
 How they relate:
 
-- **Access through root entity:** When interacting with an aggregate, you would always access its related entities through the root entity, using its key object to identify the specific aggregate you want to interact with.
+- **Access through root entity:** When interacting with an [[aggregate]], you would always access its related entities through the root entity, using its key object to identify the specific aggregate you want to interact with.
